@@ -8,13 +8,17 @@
     <meta name="description"
         content="This is Nirbhay's lab website where various experiments and projects are showcased.">
     <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
     <header class="header">
         <div class="nav-bar">
             <div class="logo">
-                <img src="assets/images/nl_logo.png" alt="Nirbhay's lab Logo" class="nav-logo-img">
+                <img src="assets/images/nl_logo.png" alt="Nirbhay's lab" class="nav-logo-img logo">
                 <h1 id="nav-logo-txt">Nirbhay's Lab</h1>
             </div>
             <div class="nav-links">
@@ -55,12 +59,11 @@
         </section>
 
         <section class="section" id="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li><strong>NYRON</strong>: An AI assistant that helps with coding, writing, and more. (In development)
-                </li>
-                <li><strong>Automation Scripts</strong>: Various scripts to automate repetitive tasks.</li>
-                <li><strong>Web Apps</strong>: Small web applications built using HTML, CSS, and JavaScript.</li>
+            <h2 class="section-title">Projects</h2>
+            <p class="section-sub-heading">What I’m building, maintaining, and architecting.
+                A look inside the Lab's active development cycles.</p>
+               <div class="projects-grid" id="projectsGrid"></div>
+
         </section>
 
         <section class="section" id="about">
@@ -75,8 +78,9 @@
     </main>
     <footer>
         <p> <span></span>Designed and developed by Nirbhay | Strange Stark.</p>
-        <p>&copy; 2025 Nirbhay’s Lab. Built with discipline, curiosity, and caffeine.</p>
-        <p><a href="#hero"> <img src="assets/images/nl_logo.png" alt="Nirbhay's lab Logo" class="logo-img-footer"></a>v0.1.0 - Early Acess</p>
+        <p>&copy; <span id="footerYear">2025</span> Nirbhay’s Lab. Built with discipline, curiosity, and caffeine.</p>
+        <p><a href="#hero"> <img src="assets/images/nl_logo.png" alt="Nirbhay's lab Logo"
+                    class="logo-img-footer"></a><span id="versionNumber"></span> - Early Acess</p>
     </footer>
 
     <script src="script.js"></script>
