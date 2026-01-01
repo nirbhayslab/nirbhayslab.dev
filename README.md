@@ -1,17 +1,17 @@
-# 🚀 nirbhayslab.dev — Early Access
+# nirbhayslab.dev — Early Access
 
 > Personal developer website & long-term tech lab — built in public.
 
 This is the **early access version** of my personal tech website.
 It currently serves as the **foundation layer** for a much larger platform I’m building step-by-step.
 
-## 🌐 Live Site
+## Live Site
 
-[https://nirbhayslab-dev.netlify.app/](https://nirbhayslab-dev.netlify.app/)
+[Live View](https://nirbhay.space/)
 
 ---
 
-## ⚙️ Current Tech Stack
+## Current Tech Stack
 
 * HTML5
 * CSS3
@@ -21,18 +21,18 @@ It currently serves as the **foundation layer** for a much larger platform I’m
 
 ---
 
-## 🧱 Current Status
+## Current Status
 
-* ✅ Static website deployed
-* ✅ Responsive base layout
-* ✅ Core branding & structure
-* ✅ Project foundation pushed to GitHub
+*  Static website deployed
+*  Responsive base layout
+*  Core branding & structure
+*  Project foundation pushed to GitHub
 
-This is **v0.1 (Early Access)** — not final.
+This is **v0.3.5 (Early Access)** — not final.
 
 ---
 
-## 🧭 Roadmap (Planned Upgrades)
+##  Roadmap (Planned Upgrades)
 
 * Backend migration to **Django**
 * Blog & tutorial system
@@ -43,7 +43,7 @@ This is **v0.1 (Early Access)** — not final.
 
 ---
 
-## 🎯 Purpose of This Project
+##  Purpose of This Project
 
 * Build my **public tech identity**
 * Document real learning through real projects
@@ -52,7 +52,7 @@ This is **v0.1 (Early Access)** — not final.
 
 ---
 
-## 🤝 Feedback & Contributions
+##  Feedback & Contributions
 
 This project is currently **solo-built**, but:
 
@@ -64,9 +64,9 @@ are all welcome.
 
 ---
 
-## 🧠 Author
+##  Author
 
-**Nirbhay**
+**Nirbhay K.**
 Student Developer | AI, Automation & Web Development
 Building toward IIT & startup goals.
 
