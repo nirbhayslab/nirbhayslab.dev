@@ -7,7 +7,7 @@ It currently serves as the **foundation layer** for a much larger platform I’m
 
 ## Live Site
 
-[https://nirbhayslab-dev.netlify.app/](https://nirbhay.space/)
+[Live View](https://nirbhay.space/)
 
 ---
 
@@ -23,16 +23,16 @@ It currently serves as the **foundation layer** for a much larger platform I’m
 
 ## Current Status
 
-* ✅ Static website deployed
-* ✅ Responsive base layout
-* ✅ Core branding & structure
-* ✅ Project foundation pushed to GitHub
+*  Static website deployed
+*  Responsive base layout
+*  Core branding & structure
+*  Project foundation pushed to GitHub
 
 This is **v0.3.5 (Early Access)** — not final.
 
 ---
 
-## Roadmap (Planned Upgrades)
+##  Roadmap (Planned Upgrades)
 
 * Backend migration to **Django**
 * Blog & tutorial system
@@ -43,7 +43,7 @@ This is **v0.3.5 (Early Access)** — not final.
 
 ---
 
-## Purpose of This Project
+##  Purpose of This Project
 
 * Build my **public tech identity**
 * Document real learning through real projects
@@ -52,7 +52,7 @@ This is **v0.3.5 (Early Access)** — not final.
 
 ---
 
-## Feedback & Contributions
+##  Feedback & Contributions
 
 This project is currently **solo-built**, but:
 
@@ -64,7 +64,7 @@ are all welcome.
 
 ---
 
-## Author
+##  Author
 
 **Nirbhay K.**
 Student Developer | AI, Automation & Web Development
