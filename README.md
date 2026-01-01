@@ -28,7 +28,7 @@ It currently serves as the **foundation layer** for a much larger platform I’m
 *  Core branding & structure
 *  Project foundation pushed to GitHub
 
-This is **v0.1 (Early Access)** — not final.
+This is **v0.3.5 (Early Access)** — not final.
 
 ---
 
