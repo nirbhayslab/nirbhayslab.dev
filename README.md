@@ -23,10 +23,10 @@ It currently serves as the **foundation layer** for a much larger platform I’m
 
 ## Current Status
 
-* ✅ Static website deployed
-* ✅ Responsive base layout
-* ✅ Core branding & structure
-* ✅ Project foundation pushed to GitHub
+*  Static website deployed
+*  Responsive base layout
+*  Core branding & structure
+*  Project foundation pushed to GitHub
 
 This is **v0.1 (Early Access)** — not final.
 
