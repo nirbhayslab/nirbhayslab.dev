@@ -284,6 +284,19 @@ body {
   color: var(--accent-glow);
 }
 
+#hero h1 {
+
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* Hero description text - secondary content */
 #hero p {
   color: var(--text-muted);
