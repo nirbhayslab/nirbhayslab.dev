@@ -133,7 +133,7 @@ body {
 }
 
 /* Hover effect for logo */
-#nav-logo-txt:hover {
+#nav-logo-txt:hover, .logo img {
   color: var(--accent);
   cursor: pointer;
 }
