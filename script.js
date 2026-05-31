@@ -21,7 +21,7 @@ footer_year.textContent = currentYear;
 
 // Version number
 const version_number = document.getElementById("versionNumber");
-const VERSION = "v0.3.5";
+const VERSION = "v0.4.5";
 version_number.textContent = VERSION;
 
 // Smooth scrolling for internal links
